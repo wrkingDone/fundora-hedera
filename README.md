@@ -6,6 +6,11 @@
 ## HAHSGRAPH COURSE COMPLETION CERTIFICATE
 <a href="https://drive.google.com/file/d/1vctIZO4N9FKCnJFWIRASnIeJkZtUYMZY/view?usp=sharing">View Certificate</a>
 
+
+## Fundora Presentation Slide
+<a href="https://fundora-2x9pzvv.gamma.site/"></a>
+
+
 ## 🪙 Fundora – Hedera Integration Summary
 
 ### Hedera Token Service (HTS):
@@ -47,6 +52,9 @@ Users can browse all active campaigns and view real-time stats — total raised,
 
 ### 🌍 Empowering Africa  
 Built to empower **African founders and youth**, Fundora offers a **trustless**, **inclusive**, and **borderless** fundraising platform that removes traditional funding barriers.
+
+# DEVELOPMENT OPERATOR KEY
+```0xb4c54a6e520cbea12b6746ce9bb724d859cf6b1dc9fd4de4252c1b3b4a34b32e```
 
 ---
 
