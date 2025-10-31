@@ -6,6 +6,14 @@
 ## HAHSGRAPH COURSE COMPLETION CERTIFICATE
 <a href="https://drive.google.com/file/d/1vctIZO4N9FKCnJFWIRASnIeJkZtUYMZY/view?usp=sharing">View Certificate</a>
 
+## 🪙 Fundora – Hedera Integration Summary
+
+### Hedera Token Service (HTS):
+**We integrated HTS to handle all token-based crowdfunding transactions within Fundora**. Using HTS allows donations and fund transfers to be executed with fixed, predictable fees (as low as $0.0001 per transaction), making micro-contributions practical and affordable for African founders and supporters. **HTS ensures that each transaction is fast, secure, and transparent, eliminating intermediaries** while giving creators direct control of their funds. This predictability and efficiency are vital for Fundora’s goal of making fundraising accessible and sustainable across low-cost environments.
+
+### Hedera Consensus Service (HCS):
+**Fundora utilizes HCS for immutable logging of campaign activities and donation events**, ensuring every contribution, update, and milestone is recorded permanently on-chain. This creates a verifiable and tamper-proof history of campaign performance, promoting trust and transparency. **The low-cost, high-throughput nature of HCS makes it ideal for auditable records, giving donors confidence that their contributions are tracked and publicly visible** — a core value for building transparency in African crowdfunding.
+
 ## 🚀 **Overview**
 
 **Fundora** is a decentralized crowdfunding platform built on the **Hedera Network**, designed to empower founders, innovators, and changemakers across Africa to access **transparent and trustless funding**.
