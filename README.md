@@ -3,6 +3,10 @@
 ## 🪙 Built on **Hedera** | Empowering Transparent Fundraising | By **Team PYP**
 
 ---
+
+## DEPLOYED HEDERA SMART CONTRACT SERVICE CONTRACT ADDRESS
+```0xf057fc18c7bcc4f0085EaB02BAE99f36E6712b9A```
+
 ## HAHSGRAPH COURSE COMPLETION CERTIFICATE
 <a href="https://drive.google.com/file/d/1vctIZO4N9FKCnJFWIRASnIeJkZtUYMZY/view?usp=sharing">View Certificate</a>
 
