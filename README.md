@@ -8,7 +8,7 @@
 
 
 ## Fundora Presentation Slide
-<a href="https://fundora-2x9pzvv.gamma.site/"></a>
+<a href="https://fundora-2x9pzvv.gamma.site/">View Presentation</a>
 
 
 ## 🪙 Fundora – Hedera Integration Summary
