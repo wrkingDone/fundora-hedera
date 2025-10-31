@@ -8,6 +8,10 @@
 
 
 ## Fundora Presentation Slide
+<a href="https://youtu.be/Cy6GhUrWrr8">Demo Video</a>
+
+
+## Fundora Presentation Slide
 <a href="https://fundora-2x9pzvv.gamma.site/">View Presentation</a>
 
 
